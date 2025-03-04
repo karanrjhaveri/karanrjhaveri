@@ -47,6 +47,9 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/karanrjhaveri/karanrjhaveri/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--
 ## Hi there 👋
