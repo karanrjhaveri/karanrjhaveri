@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Karan and I'm a Full Stack Developer from Dubai - UAE</h2>
 
+[![Dev Years](https://badges.pufler.dev/years/karanrjhaveri)](https://badges.pufler.dev)
+
 ###
 
 <div align="center">
