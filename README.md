@@ -3,6 +3,7 @@
 [![Years Badge](https://badges.pufler.dev/years/karanrjhaveri)](#)
 [![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fpujux%2Fbadge-it)](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20Github%20user:&url=https://github.com/karanrjhaveri)
 [![Twitter Follow](https://img.shields.io/twitter/follow/karanrjhaveri)](https://img.shields.io/twitter/follow/karanrjhaveri)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/karanrjhaveri/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/280212429059653632/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/karanrjhaveri/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/karanrjhaveri/)
