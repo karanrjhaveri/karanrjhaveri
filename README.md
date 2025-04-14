@@ -5,6 +5,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/karanrjhaveri)](https://img.shields.io/twitter/follow/karanrjhaveri)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/280212429059653632/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/karanrjhaveri/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/karanrjhaveri/)
+
 <!-- Ref: https://github.com/inttter/md-badges -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/karanrjhaveri/) -->
 
