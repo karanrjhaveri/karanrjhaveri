@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Karan and I'm a Full Stack Developer from Dubai - UAE</h2>
 
-[![Years Badge](https://badges.pufler.dev/years/karanrjhaveri)](#)
+<!-- [![Years Badge](https://badges.pufler.dev/years/karanrjhaveri)](#) -->
 [![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fpujux%2Fbadge-it)](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20Github%20user:&url=https://github.com/karanrjhaveri)
 [![Twitter Follow](https://img.shields.io/twitter/follow/karanrjhaveri)](https://img.shields.io/twitter/follow/karanrjhaveri)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/karanrjhaveri/)
